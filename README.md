@@ -1,6 +1,6 @@
-# 教资 Wiki（纯静态）
+# 教师资格题库（纯静态）
 
-GitHub Pages 可直接部署的教师资格考试资料导航、Wiki、刷题与错题本。**无登录、无数据库、无第三方 JS 依赖**。
+GitHub Pages 可直接部署的教师资格考试资料导航、真题索引、刷题与错题本。**无登录、无数据库、无第三方 JS 依赖**。
 
 ## 本地预览
 
@@ -22,9 +22,9 @@ python3 -m http.server 8000
 
 ## 数据文件
 
-- `data/questions.json`：题目与答案，结构见 Wiki 的“导入题目”。
+- `data/questions.json`：题目与答案，保留原卷题号和来源。
 - `data/sources.json`：第三方来源索引及授权状态。
-- `data/wiki.json` + `docs/*.md`：Markdown 知识库。
+- `data/paper-index.json`：逐卷收录范围与缺口。
 - `localStorage`：用户本地判断结果；主页提供 JSON 导入、导出。
 
 ## 内容边界
