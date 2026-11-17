@@ -1,0 +1,6 @@
+[
+{"id":"getting-started","title":"使用指南","file":"getting-started.md","description":"浏览知识库、做题、错题集和数据备份"},
+{"id":"syllabus","title":"考试大纲","file":"syllabus.md","description":"官方考纲入口及考试科目结构"},
+{"id":"principles","title":"教育教学基本概念","file":"principles.md","description":"基本教学原则和学生观简述"},
+{"id":"contribute","title":"导入题目与版权说明","file":"contribute.md","description":"如何分批增加授权真题、来源与题目格式"}
+]

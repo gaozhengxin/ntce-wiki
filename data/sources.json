@@ -1,0 +1,8 @@
+[
+{"id":"official","name":"中国教育考试网 · 中小学教师资格考试","url":"https://ntce.neea.edu.cn/","type":"官方考试大纲","description":"官网‘资料下载’栏目，免费提供考试标准、各学段笔试和面试考试大纲。","rights":"官方公开可下载；转载/再分发需分别确认许可。","status":"官方索引"},
+{"id":"official-faq","name":"教育考试院 · 有关资料如何获取？","url":"https://ntce.neea.edu.cn/html1/report/2307/215-1.htm","type":"官方说明","description":"确认考试大纲可在官网下载。","rights":"本站仅保留链接与原创概述。","status":"已核验"},
+{"id":"zhengmeng","name":"正蒙教育 · 历年教资笔试真题","url":"https://www.zhengmengjiaoyu.cn/jzbs.html","type":"第三方真题","description":"按年度整理2017—2026年笔试资料；有2026年上半年真题页面。","rights":"未经许可，不镜像其完整真题、答案或PDF。","status":"来源索引"},
+{"id":"zhengmeng-2026","name":"正蒙教育 · 2026上半年中学综合素质","url":"https://www.zhengmengjiaoyu.cn/h-nd-5612.html","type":"2026真题页面","description":"2026年上半年中学《综合素质》真题及答案的第三方页面。","rights":"暂不转载正文。","status":"来源索引"},
+{"id":"fentiku","name":"焚题库 · 教师资格考试题库","url":"https://www.fentiku.com/teacher/","type":"第三方题库","description":"含2026年考试题库、历年试卷；部分功能及题目须付费。","rights":"不绕过登录、付费或反爬限制；未经许可不镜像题库。","status":"来源索引"},
+{"id":"shanxiang","name":"山香教育 · 教师资格证","url":"https://m.shanxiangjiaoyu.com/jszg","type":"第三方资料","description":"历年真题索引、教资资讯、学科备考与教学资料。","rights":"未经许可不批量复制文章、试卷与解析。","status":"来源索引"}
+]
